@@ -1,0 +1,1 @@
+Please create Genmate Array then push another person name and one number.
